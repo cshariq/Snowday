@@ -13,7 +13,7 @@ Many snowday apps only show the predictions for the next 1 or 2 days, this snowd
 
 ### - **Accesibillity**: 
 the snowday ap can be used anywhere anytime. Can't find a GPS signal, select of the preset locations, or need snowday predictions on the go, open app the snowday website on your phone as it is resiable(dark mode currently not supported for the mobile version of the web app)!
-### - **School Closures**: 
+### - **School Closures**:
 Stay informed about school closures and delays due to snow.
 ### - **Dark Mode**: 
 Checking if there's a snowday at night? Dark mode will help you not burn your eyes.
